@@ -65,5 +65,5 @@ https://www512.github.io/keksobooking/
 https://www512.github.io/SmartDevice/
 
 
-Посадочная страница Фитнес центра.
+Посадочная страница Фитнес центра.  
 https://www512.github.io/fitnesscenter/
