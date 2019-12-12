@@ -60,3 +60,10 @@ https://www512.github.io/mishka/
 
 Сервис для размещения объявлений о сдаче недвижимости "Кексобукинг"  
 https://www512.github.io/keksobooking/
+
+Посадочная страница компании, специализирующейся на производстве и монтаже печатных плат.  
+https://www512.github.io/SmartDevice/
+
+
+Посадочная страница Фитнес центра.
+https://www512.github.io/fitnesscenter/
