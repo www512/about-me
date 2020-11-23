@@ -68,3 +68,7 @@ https://www512.github.io/SmartDevice/
 
 Посадочная страница Фитнес центра.  
 https://www512.github.io/fitnesscenter/
+
+
+Круизы в Антарктику.  
+https://www512.github.io/antarctic/
