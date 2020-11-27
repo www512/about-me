@@ -37,7 +37,7 @@ HTML-Academy: Профессия «Фронтенд-разработчик»
 
 ## Профессиональные навыки:
 
-HTML5, CSS, JavaScript, AJAX, препроцессоры LESS, SCSS.  
+HTML5, CSS, JavaScript, AJAX, препроцессоры LESS, SCSS, Bootstrap.  
 Блочная, кроссбраузерная, адаптивная вёрстка Pixel Perfect.  
 Понимание принципов БЭМ, сборка проектов в Gulp.  
 Опыт работы с GIT, Adobe Photoshop, Figma.  
